@@ -26,7 +26,7 @@ This project started as an attempt to understand why customers leave telecom ser
 * This project helped me understand how to go beyond just building a model and actually connect it to business insights, which is something I’m continuing to improve.
 
 
-<img width="1405" height="812" alt="image" src="https://github.com/user-attachments/assets/7f12bb88-cb23-4c88-a6cf-244ebc05287f" />
+<img width="1402" height="815" alt="image" src="https://github.com/user-attachments/assets/444d3306-e321-4c68-bf6b-b12c18741613" />
 
 
 
